@@ -36,7 +36,7 @@ font-family: cursive, Nunito SemiBold;
 form{
   background: #fff;
   padding: 20px;
-  position: fixed;
+  position: relative;
   left: 0;
   bottom: 0;
   width: 400px;
