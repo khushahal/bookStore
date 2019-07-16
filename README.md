@@ -18,6 +18,10 @@
 * Javascript
 * Mlab
 
+# Deployment 
+* heroku- deployment bookstore/Client
+* heroku- deployment bookstore/server
+
 # Live demo of graphql resolvers https://booksstoreserver.herokuapp.com/graphql 
 
 
